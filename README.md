@@ -4,7 +4,9 @@
 
 # Piano Learn
 
-**Learn piano on your laptop keyboard — falling tiles, a real grand piano sound, and 26 songs from beginner to advanced.**
+### 🎉 A fun project: turn your laptop keyboard into a piano
+
+**Falling tiles, a real grand piano sound, and 26 songs from beginner to advanced. Built for fun while learning to play.**
 
 [![Play now](https://img.shields.io/badge/▶_Play_now-in_your_browser-8b7fff?style=for-the-badge)](https://jai0812.github.io/piano-learn/)
 &nbsp;
